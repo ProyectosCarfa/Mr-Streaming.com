@@ -43,7 +43,7 @@ export const HomeView: React.FC<HomeViewProps> = ({
         {/* Background grid image with elegant blending */}
         <div className="absolute inset-0 z-0 opacity-80 pointer-events-none">
           <img
-            src="/src/assets/images/Fondo-Inicio.png"
+            src="/images/Fondo-Inicio.png"
             alt="Cyber Streaming Grid"
             className="w-full h-full object-cover object-center"
             referrerPolicy="no-referrer"
@@ -122,7 +122,7 @@ export const HomeView: React.FC<HomeViewProps> = ({
           <div className="md:col-span-5 relative z-10 flex justify-center">
             <div className="relative group w-72 h-72 sm:w-80 sm:h-80 overflow-hidden transform transition-all duration-500 hover:scale-[1.03]">
               <img
-                src="/src/assets/images/flork_combo_1779850949784.png"
+                src="/images/flork_combo_1779850949784.png"
                 alt="Flork Combo Epic"
                 referrerPolicy="no-referrer"
                 className="w-full h-full object-contain object-center opacity-100"

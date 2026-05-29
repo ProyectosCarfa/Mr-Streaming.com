@@ -86,7 +86,7 @@ export const CartView: React.FC<CartViewProps> = ({
         {/* Imagen de fondo dentro del header */}
         <div className="absolute inset-0 z-0">
           <img
-            src="/src/assets/images/banner-Carrito.png"
+            src="/images/banner-Carrito.png"
             alt="Cyber Streaming Grid"
             className="w-full h-full object-cover object-center"
             referrerPolicy="no-referrer"

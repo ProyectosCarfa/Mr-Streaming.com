@@ -187,7 +187,7 @@ export default function App() {
             className="flex items-center gap-2.5 cursor-pointer shrink-0 group"
           >
             <img 
-              src="/src/assets/images/logo_mr_streaming_1779852538051.png" 
+              src="/images/logo_mr_streaming_1779852538051.png" 
               alt="MR STREAMING Logo" 
               referrerPolicy="no-referrer"
               className="h-10 w-10 md:h-11 md:w-11 rounded-xl border border-purple-500/35 shadow-md shadow-purple-950/25 object-cover transition-transform duration-300 group-hover:scale-105"

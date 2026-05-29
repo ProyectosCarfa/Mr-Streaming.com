@@ -33,7 +33,7 @@
     ],
     "bannerColor": "from-red-600 to-black",
     "accentColor": "red",
-    "image": "/src/assets/images/flork_netflix_1779850836843.png"
+    "image": "/images/flork_netflix_1779850836843.png"
   },
   {
     "id": "max-perfil",
@@ -68,7 +68,7 @@
     ],
     "bannerColor": "from-[#002be7]/80 to-black",
     "accentColor": "blue",
-    "image": "/src/assets/images/flork_max_1779850885371.png"
+    "image": "/images/flork_max_1779850885371.png"
   },
   {
     "id": "disney-espn-perfil",
@@ -103,7 +103,7 @@
     ],
     "bannerColor": "from-blue-600 to-indigo-950",
     "accentColor": "blue",
-    "image": "/src/assets/images/flork_disney_1779850852622.png"
+    "image": "/images/flork_disney_1779850852622.png"
   },
   {
     "id": "paramount-perfil",
@@ -138,7 +138,7 @@
     ],
     "bannerColor": "from-[#0057ff] to-sky-950",
     "accentColor": "sky",
-    "image": "/src/assets/images/flork_max_1779850885371.png"
+    "image": "/images/flork_max_1779850885371.png"
   },
   {
     "id": "prime-perfil",
@@ -173,7 +173,7 @@
     ],
     "bannerColor": "from-[#00a8e1] to-black",
     "accentColor": "cyan",
-    "image": "/src/assets/images/flork_prime_1779850867216.png"
+    "image": "/images/flork_prime_1779850867216.png"
   },
   {
     "id": "vix-premium",
@@ -208,7 +208,7 @@
     ],
     "bannerColor": "from-blue-500 to-cyan-700",
     "accentColor": "blue",
-    "image": "/src/assets/images/flork_prime_1779850867216.png"
+    "image": "/images/flork_prime_1779850867216.png"
   },
   {
     "id": "crunchyroll-mega-fan",
@@ -243,7 +243,7 @@
     ],
     "bannerColor": "from-orange-500 to-black",
     "accentColor": "orange",
-    "image": "/src/assets/images/flork_crunchyroll_1779850928533.png"
+    "image": "/images/flork_crunchyroll_1779850928533.png"
   },
   {
     "id": "viki-rakuten",
@@ -278,7 +278,7 @@
     ],
     "bannerColor": "from-red-700 to-pink-800",
     "accentColor": "red",
-    "image": "/src/assets/images/flork_crunchyroll_1779850928533.png"
+    "image": "/images/flork_crunchyroll_1779850928533.png"
   },
   {
     "id": "apple-tv",
@@ -313,7 +313,7 @@
     ],
     "bannerColor": "from-gray-700 to-black",
     "accentColor": "gray",
-    "image": "/src/assets/images/flork_netflix_1779850836843.png"
+    "image": "/images/flork_netflix_1779850836843.png"
   },
   {
     "id": "youtube-premium",
@@ -348,7 +348,7 @@
     ],
     "bannerColor": "from-red-600 to-black",
     "accentColor": "red",
-    "image": "/src/assets/images/flork_youtube_1779850915714.png"
+    "image": "/images/flork_youtube_1779850915714.png"
   },
   {
     "id": "dazn-premium",
@@ -384,7 +384,7 @@
     ],
     "bannerColor": "from-blue-700 to-black",
     "accentColor": "blue",
-    "image": "/src/asfLigasets/images/products/Dazn.png"
+    "image": "/images/products/Dazn.png"
   },
   {
     "id": "fubo-sports-premium",
@@ -420,7 +420,7 @@
     ],
     "bannerColor": "from-green-700 to-black",
     "accentColor": "green",
-    "image": "/src/assets/images/products/fuboSport.png"
+    "image": "/images/products/fuboSport.png"
   },
   {
     "id": "directv-total-access",
@@ -456,7 +456,7 @@
     ],
     "bannerColor": "from-blue-800 to-sky-900",
     "accentColor": "sky",
-    "image": "/src/assets/images/products/direcTv.png"
+    "image": "/images/products/direcTv.png"
   },
   {
     "id": "iptv-premium-plus",
@@ -492,7 +492,7 @@
     ],
     "bannerColor": "from-purple-800 to-pink-900",
     "accentColor": "purple",
-    "image": "/src/assets/images/products/iptv.png"
+    "image": "/images/products/iptv.png"
   },
   {
     "id": "dgo-tv-en-vivo",
@@ -528,7 +528,7 @@
     ],
     "bannerColor": "from-red-700 to-orange-800",
     "accentColor": "red",
-    "image": "/src/assets/images/products/dgo.png"
+    "image": "/images/products/dgo.png"
   },
   {
     "id": "hulu-contenido-completo",
@@ -564,7 +564,7 @@
     ],
     "bannerColor": "from-green-600 to-emerald-800",
     "accentColor": "green",
-    "image": "/src/assets/images/products/hulu.png"
+    "image": "/images/products/hulu.png"
   },
   {
     "id": "univision-now-premium",
@@ -600,7 +600,7 @@
     ],
     "bannerColor": "from-purple-700 to-pink-700",
     "accentColor": "purple",
-    "image": "/src/assets/images/products/univision.png"
+    "image": "/images/products/univision.png"
   },
   {
     "id": "espn-unlimited",
@@ -637,7 +637,7 @@
     ],
     "bannerColor": "from-red-600 to-black",
     "accentColor": "red",
-    "image": "/src/assets/images/products/Espn.png"
+    "image": "/images/products/Espn.png"
   },
   {
     "id": "chatgpt-plus",
@@ -674,7 +674,7 @@
     ],
     "bannerColor": "from-green-600 to-emerald-700",
     "accentColor": "green",
-    "image": "/src/assets/images/products/Chagpt.png"
+    "image": "/images/products/Chagpt.png"
   },
   {
     "id": "nfl-plus-premium",
@@ -711,7 +711,7 @@
     ],
     "bannerColor": "from-blue-800 to-blue-950",
     "accentColor": "blue",
-    "image": "/src/assets/images/products/nflGamePass.png"
+    "image": "/images/products/nflGamePass.png"
   },
   {
     "id": "nfl-game-pass",
@@ -748,7 +748,7 @@
     ],
     "bannerColor": "from-blue-900 to-black",
     "accentColor": "blue",
-    "image": "/src/assets/images/products/nflGamePass.png"
+    "image": "/images/products/nflGamePass.png"
   },
   {
     "id": "fanatiz-acceso-en-vivo",
@@ -785,7 +785,7 @@
     ],
     "bannerColor": "from-blue-600 to-cyan-700",
     "accentColor": "blue",
-    "image": "/src/assets/images/products/Fanatiz.png"
+    "image": "/images/products/Fanatiz.png"
   },
   {
     "id": "liga-1-max",
@@ -822,7 +822,7 @@
     ],
     "bannerColor": "from-red-700 to-red-900",
     "accentColor": "red",
-    "image": "/src/assets/images/products/liga1.png"
+    "image": "/images/products/liga1.png"
   },
   {
     "id": "movistar-play",
@@ -859,7 +859,7 @@
     ],
     "bannerColor": "from-blue-600 to-blue-800",
     "accentColor": "blue",
-    "image": "/src/assets/images/products/movistarPlay.png"
+    "image": "/images/products/movistarPlay.png"
   },
   {
     "id": "nba-league-pass",
@@ -896,7 +896,7 @@
     ],
     "bannerColor": "from-blue-800 to-red-800",
     "accentColor": "blue",
-    "image": "/src/assets/images/products/nbaPass.png"
+    "image": "/images/products/nbaPass.png"
   },
   {
     "id": "peacock-premium",
@@ -933,7 +933,7 @@
     ],
     "bannerColor": "from-blue-500 to-indigo-700",
     "accentColor": "blue",
-    "image": "/src/assets/images/products/peacock.png"
+    "image": "/images/products/peacock.png"
   },
   {
     "id": "amc-plus",
@@ -970,7 +970,7 @@
     ],
     "bannerColor": "from-gray-800 to-black",
     "accentColor": "gray",
-    "image": "/src/assets/images/products/amc.png"
+    "image": "/images/products/amc.png"
   },
   {
     "id": "ufc-streaming",
@@ -1007,7 +1007,7 @@
     ],
     "bannerColor": "from-yellow-700 to-black",
     "accentColor": "yellow",
-    "image": "/src/assets/images/products/Ufc.png"
+    "image": "/images/products/Ufc.png"
   },
   {
     "id": "formula-1-streaming",
@@ -1044,6 +1044,6 @@
     ],
     "bannerColor": "from-red-700 to-black",
     "accentColor": "red",
-    "image": "/src/assets/images/products/formula1.png"
+    "image": "/images/products/formula1.png"
   }
 ]
