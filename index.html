@@ -2,49 +2,69 @@
 <html lang="es">
 
 <head>
+  <!-- ========================= -->
+  <!-- CONFIG -->
+  <!-- ========================= -->
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="theme-color" content="#06040d" />
 
+  <!-- ========================= -->
   <!-- SEO -->
-  <meta name="robots" content="index, follow" />
-  <meta name="language" content="Spanish" />
-  <meta name="revisit-after" content="7 days" />
-
-  <!-- Canonical -->
-  <link rel="canonical" href="https://mr-streaming-com.vercel.app/" />
-
-  <!-- PWA -->
-  <link rel="manifest" href="/manifest.json" />
-
-  <!-- Primary SEO Meta Tags -->
-  <title>MR STREAMING Peru | Cuentas Netflix, Disney+, Max y Spotify Premium Estables</title>
+  <!-- ========================= -->
+  <title>
+    MR STREAMING Perú | Netflix, Disney+, Max y Spotify Premium
+  </title>
 
   <meta
     name="description"
-    content="La tienda premium #1 de streaming en Perú. Adquiere perfiles y cuentas 100% estables de Netflix, Disney+, Max, Prime Video, Crunchyroll y Spotify Premium. Entrega digital rápida con garantía de reemplazo inmediata."
+    content="Compra cuentas premium de Netflix, Disney+, Max, Crunchyroll, Prime Video y Spotify Premium en Perú. Entrega inmediata por WhatsApp con soporte y garantía."
   />
 
   <meta
     name="keywords"
-    content="mr streaming, comprar netflix peru, yape netflix peru, cuentas disney plus peru, max peru, spotify premium peru, streaming estable peru, cuentas premium peru, streaming premium"
+    content="mr streaming, netflix peru, disney plus peru, spotify premium peru, max peru, crunchyroll premium peru, cuentas streaming peru, yape netflix"
   />
 
   <meta name="author" content="MR STREAMING" />
+  <meta name="robots" content="index, follow" />
+  <meta name="language" content="Spanish" />
+  <meta name="revisit-after" content="7 days" />
 
-  <!-- Open Graph / Facebook -->
+  <!-- ========================= -->
+  <!-- CANONICAL -->
+  <!-- ========================= -->
+  <link rel="canonical" href="https://mr-streaming-com.vercel.app/" />
+
+  <!-- ========================= -->
+  <!-- FAVICON -->
+  <!-- ========================= -->
+  <link
+    rel="icon"
+    type="image/png"
+    href="https://mr-streaming-com.vercel.app/images/logo_mr_streaming_1779852538051.png"
+  />
+
+  <!-- ========================= -->
+  <!-- PWA -->
+  <!-- ========================= -->
+  <link rel="manifest" href="/manifest.json" />
+
+  <!-- ========================= -->
+  <!-- OPEN GRAPH -->
+  <!-- ========================= -->
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="MR STREAMING" />
   <meta property="og:url" content="https://mr-streaming-com.vercel.app/" />
 
   <meta
     property="og:title"
-    content="MR STREAMING Peru | Cuentas Premium Ilimitadas y Estables"
+    content="MR STREAMING Perú | Cuentas Premium Estables"
   />
 
   <meta
     property="og:description"
-    content="Consigue tus plataformas de series, películas y música preferidas a precio insuperable. Soporte activo e inmediato ante caídas."
+    content="Consigue cuentas premium de Netflix, Disney+, Max y Spotify Premium en Perú con soporte inmediato."
   />
 
   <meta
@@ -52,17 +72,19 @@
     content="https://mr-streaming-com.vercel.app/images/logo_mr_streaming_1779852538051.png"
   />
 
-  <!-- Twitter -->
+  <!-- ========================= -->
+  <!-- TWITTER -->
+  <!-- ========================= -->
   <meta property="twitter:card" content="summary_large_image" />
 
   <meta
     property="twitter:title"
-    content="MR STREAMING Peru | Cuentas Premium Ilimitadas y Estables"
+    content="MR STREAMING Perú | Streaming Premium"
   />
 
   <meta
     property="twitter:description"
-    content="Consigue tus plataformas de series, películas y música preferidas a precio insuperable. Soporte activo e inmediato ante caídas."
+    content="Netflix, Disney+, Max, Crunchyroll y Spotify Premium en Perú."
   />
 
   <meta
@@ -70,12 +92,47 @@
     content="https://mr-streaming-com.vercel.app/images/logo_mr_streaming_1779852538051.png"
   />
 
-  <!-- Favicon -->
-  <link rel="icon" type="image/png" href="/images/logo_mr_streaming_1779852538051.png" />
+  <!-- ========================= -->
+  <!-- FAQ SCHEMA SEO -->
+  <!-- ========================= -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "¿Cómo funciona MR STREAMING?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Seleccionas una cuenta premium y recibes acceso digital inmediato mediante WhatsApp."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "¿Qué métodos de pago aceptan?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Aceptamos Yape, Plin, transferencias bancarias y otros métodos de pago."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "¿Las cuentas tienen garantía?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Sí, ofrecemos soporte y garantía ante inconvenientes con el acceso."
+        }
+      }
+    ]
+  }
+  </script>
+
 </head>
 
 <body>
   <div id="root"></div>
+
   <script type="module" src="/src/main.tsx"></script>
 </body>
 
