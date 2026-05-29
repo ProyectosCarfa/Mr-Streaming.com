@@ -1,0 +1,6 @@
+{
+  "name": "MR STREAMING",
+  "description": "El streaming más épico del internet. Venta de cuentas completas y perfiles premium de Netflix, Prime Video, Disney+, Max, Paramount y más con soporte instantáneo y garantía.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

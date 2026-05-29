@@ -1,0 +1,37 @@
+@import "tailwindcss";
+
+/* Custom Premium Dark Scrollbar for MR STREAMING */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #040208;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(139, 92, 246, 0.25); /* Purple accent transparent thumb */
+  border-radius: 8px;
+  border: 2px solid #040208;
+  transition: background-color 0.3s ease;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(207, 94, 255, 0.6); /* Vibrant purple/pink on hover */
+}
+
+/* Firefox compatibility support */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(139, 92, 246, 0.25) #040208;
+}
+
+/* Cybernetic Neon Background Grid Pattern */
+.bg-cyber-grid {
+  background-image: 
+    linear-gradient(to bottom, rgba(207, 94, 255, 0.02) 1px, transparent 1px),
+    linear-gradient(to right, rgba(139, 92, 246, 0.025) 1px, transparent 1px);
+  background-size: 32px 32px;
+  background-position: center;
+}

@@ -1,0 +1,22 @@
+{
+  "short_name": "MR STREAMING",
+  "name": "MR STREAMING | Cuentas Premium Estables",
+  "description": "La tienda de streaming número uno en estabilidad, soporte y garantías totales. Adquiere perfiles y cuentas completas de Netflix, Disney+, Max y más.",
+  "icons": [
+    {
+      "src": "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=192&auto=format&fit=crop",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1620121692029-d088224ddc74?q=80&w=512&auto=format&fit=crop",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#000000",
+  "theme_color": "#06040d",
+  "display": "standalone",
+  "orientation": "portrait"
+}

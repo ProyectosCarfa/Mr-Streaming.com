@@ -1,0 +1,1049 @@
+[
+  {
+    "id": "netflix-premium",
+    "name": "NETFLIX PREMIUM 4K",
+    "description": "Acceso a Netflix con calidad 4K, múltiples perfiles y posibilidad de usar en varios dispositivos.",
+    "price": 7.99,
+    "originalPrice": 12.99,
+    "rating": 4.9,
+    "reviewsCount": 1240,
+    "category": "Cuentas Completas",
+    "platform": "netflix",
+    "type": "Completa",
+    "tag": "MÁS VENDIDO",
+    "features": [
+      "UHD 4K + HDR",
+      "4 Pantallas Simultáneas",
+      "Descargas ilimitadas en 4 dispositivos",
+      "Creación y edición de los 5 perfiles",
+      "Cuentas 100% estables con garantía total"
+    ],
+    "durationOptions": [
+      {
+        "months": 1,
+        "price": 7.99,
+        "description": "Suscripción Completa Netflix"
+      }
+    ],
+    "detailedInfo": "🎬 Disfruta NETFLIX 4K PREMIUM con acceso ilimitado a todo el catálogo en calidad Ultra HD. Producto flexible: puede ser una cuenta completa o perfiles individuales válidos por 1, 2 o 3 meses. Compatible con Smart TVs, móviles, tablets y computadoras.",
+    "rules": [
+      "No cambiar el correo de facturación de la cuenta.",
+      "Soporte disponible 24/7 de forma directa mediante WhatsApp.",
+      "Garantía activa durante todo el periodo contratado."
+    ],
+    "bannerColor": "from-red-600 to-black",
+    "accentColor": "red",
+    "image": "/src/assets/images/flork_netflix_1779850836843.png"
+  },
+  {
+    "id": "max-perfil",
+    "name": "MAX – Perfil Estándar",
+    "description": "Disfruta de series exclusivas y estrenos en Max con planes flexibles para streaming.",
+    "price": 5.99,
+    "originalPrice": 8.50,
+    "rating": 4.8,
+    "reviewsCount": 933,
+    "category": "Perfiles",
+    "platform": "max",
+    "type": "Perfil",
+    "tag": "HOT",
+    "features": [
+      "Full HD",
+      "1 Pantalla",
+      "Series exclusivas HBO",
+      "Estrenos de cine",
+      "Contenido Warner Bros"
+    ],
+    "durationOptions": [
+      {
+        "months": 1,
+        "price": 5.99,
+        "description": "Perfil Estándar Max"
+      }
+    ],
+    "detailedInfo": "MAX ofrece planes flexibles para que elijas la opción que mejor se adapte a ti: cuenta completa, perfil estándar o platino. Compatible con múltiples dispositivos: Smart TV, celular, tablet, laptop.",
+    "rules": [
+      "No compartir credenciales públicamente.",
+      "Prohibido el cambio de correo electrónico o método de facturación."
+    ],
+    "bannerColor": "from-[#002be7]/80 to-black",
+    "accentColor": "blue",
+    "image": "/src/assets/images/flork_max_1779850885371.png"
+  },
+  {
+    "id": "disney-espn-perfil",
+    "name": "Disney Premium + ESPN",
+    "description": "Disney+ con acceso a ESPN 1 al 7, deportes en vivo y contenido familiar premium.",
+    "price": 6.99,
+    "originalPrice": 9.99,
+    "rating": 4.9,
+    "reviewsCount": 745,
+    "category": "Perfiles",
+    "platform": "disney",
+    "type": "Perfil",
+    "tag": "POPULAR",
+    "features": [
+      "Disney+ Completo",
+      "ESPN 1 al 7 incluido",
+      "Deportes en vivo",
+      "Calidad HD/4K",
+      "Perfil personalizado"
+    ],
+    "durationOptions": [
+      {
+        "months": 1,
+        "price": 6.99,
+        "description": "Perfil Disney+ con ESPN"
+      }
+    ],
+    "detailedInfo": "Disfruta de Disney Premium con acceso a Disney+, STAR+ y ESPN, con opciones que se adaptan a tus necesidades. Perfil o cuenta completa. Calidad de imagen hasta 4K UHD.",
+    "rules": [
+      "No modificar la dirección de correo electrónico principal.",
+      "Uso permitido en múltiples dispositivos pero respetando las pantallas simultáneas."
+    ],
+    "bannerColor": "from-blue-600 to-indigo-950",
+    "accentColor": "blue",
+    "image": "/src/assets/images/flork_disney_1779850852622.png"
+  },
+  {
+    "id": "paramount-perfil",
+    "name": "Paramount+ – Perfil Exclusivo",
+    "description": "Series, películas y estrenos exclusivos en Paramount+ con calidad HD.",
+    "price": 4.99,
+    "originalPrice": 6.50,
+    "rating": 4.7,
+    "reviewsCount": 310,
+    "category": "Perfiles",
+    "platform": "paramount",
+    "type": "Perfil",
+    "tag": "RECOMENDADO",
+    "features": [
+      "Series originales",
+      "Películas exclusivas",
+      "Full HD",
+      "1 dispositivo",
+      "Soporte garantizado"
+    ],
+    "durationOptions": [
+      {
+        "months": 1,
+        "price": 4.99,
+        "description": "Perfil Paramount+"
+      }
+    ],
+    "detailedInfo": "Disfruta Paramount+ con estrenos, series originales y un catálogo exclusivo para toda la familia. Perfil individual o cuenta completa. Calidad de imagen Full HD hasta 4K.",
+    "rules": [
+      "Registrar su IP autorizada en caso de usar en TV inteligente.",
+      "No cambiar la clave ni los nombres de usuario."
+    ],
+    "bannerColor": "from-[#0057ff] to-sky-950",
+    "accentColor": "sky",
+    "image": "/src/assets/images/flork_max_1779850885371.png"
+  },
+  {
+    "id": "prime-perfil",
+    "name": "Prime Video – Perfil Individual",
+    "description": "Prime Video x 1 mes con el mejor contenido, películas y series exclusivas.",
+    "price": 4.99,
+    "originalPrice": 7.99,
+    "rating": 4.7,
+    "reviewsCount": 395,
+    "category": "Perfiles",
+    "platform": "prime",
+    "type": "Perfil",
+    "tag": "ECONÓMICO",
+    "features": [
+      "Contenido 100% premium",
+      "1 Conexión activa",
+      "Full HD",
+      "Soporte técnico",
+      "Garantía activa"
+    ],
+    "durationOptions": [
+      {
+        "months": 1,
+        "price": 4.99,
+        "description": "Perfil Individual Prime Video"
+      }
+    ],
+    "detailedInfo": "Prime Video es una plataforma de streaming que ofrece una amplia variedad de películas, series, documentales y contenido exclusivo. Acceso a Prime Video según el plan elegido (perfil personal, cuenta completa o activación en TV).",
+    "rules": [
+      "No alterar el nombre ni los PIN de los perfiles ajenos.",
+      "Sola conexión simultánea por perfil adquirido."
+    ],
+    "bannerColor": "from-[#00a8e1] to-black",
+    "accentColor": "cyan",
+    "image": "/src/assets/images/flork_prime_1779850867216.png"
+  },
+  {
+    "id": "vix-premium",
+    "name": "ViX – Streaming en Español",
+    "description": "Series y novelas en HD, contenido latinoamericano de calidad.",
+    "price": 7.50,
+    "originalPrice": 9.99,
+    "rating": 4.6,
+    "reviewsCount": 280,
+    "category": "Perfiles",
+    "platform": "vix",
+    "type": "Perfil",
+    "tag": "NUEVO",
+    "features": [
+      "Contenido en español",
+      "Novelas y series",
+      "Deportes en vivo",
+      "Noticias 24/7",
+      "Sin anuncios"
+    ],
+    "durationOptions": [
+      {
+        "months": 1,
+        "price": 7.50,
+        "description": "ViX Premium"
+      }
+    ],
+    "detailedInfo": "ViX es una plataforma de streaming en español que ofrece novelas, series, películas, noticias, deportes en vivo y contenido original sin límites. Perfecta para quienes disfrutan del entretenimiento latinoamericano.",
+    "rules": [
+      "No compartir credenciales.",
+      "Soporte disponible por WhatsApp."
+    ],
+    "bannerColor": "from-blue-500 to-cyan-700",
+    "accentColor": "blue",
+    "image": "/src/assets/images/flork_prime_1779850867216.png"
+  },
+  {
+    "id": "crunchyroll-mega-fan",
+    "name": "Crunchyroll Premium",
+    "description": "Para amantes del anime, disfrútalo en español sin anuncios y con estrenos rápidos.",
+    "price": 8.90,
+    "originalPrice": 12.99,
+    "rating": 4.9,
+    "reviewsCount": 420,
+    "category": "Música & Gaming",
+    "platform": "crunchyroll",
+    "type": "Completa",
+    "tag": "POPULAR",
+    "features": [
+      "Sin anuncios",
+      "Estrenos rápidos desde Japón",
+      "Gran catálogo de anime",
+      "Descargas offline",
+      "Multi-dispositivo"
+    ],
+    "durationOptions": [
+      {
+        "months": 1,
+        "price": 8.90,
+        "description": "Crunchyroll Mega Fan"
+      }
+    ],
+    "detailedInfo": "Crunchyroll es la plataforma líder en streaming de anime, donde podrás disfrutar de miles de episodios, películas y OVAs de tus series favoritas, directamente desde Japón y en la mejor calidad posible.",
+    "rules": [
+      "No alterar el correo ni sistema de pago de la cuenta premium.",
+      "Garantía directa ante bloqueos o incidentes."
+    ],
+    "bannerColor": "from-orange-500 to-black",
+    "accentColor": "orange",
+    "image": "/src/assets/images/flork_crunchyroll_1779850928533.png"
+  },
+  {
+    "id": "viki-rakuten",
+    "name": "Rakuten Viki",
+    "description": "Series y películas internacionales, dramas asiáticos subtitulados.",
+    "price": 7.00,
+    "originalPrice": 9.99,
+    "rating": 4.7,
+    "reviewsCount": 195,
+    "category": "Entretenimiento",
+    "platform": "viki",
+    "type": "Perfil",
+    "tag": "NUEVO",
+    "features": [
+      "Dramas asiáticos",
+      "Subtítulos multi-idioma",
+      "Contenido exclusivo",
+      "1 usuario exclusivo",
+      "Sin interrupciones"
+    ],
+    "durationOptions": [
+      {
+        "months": 1,
+        "price": 7.00,
+        "description": "Viki Rakuten Pass Plus"
+      }
+    ],
+    "detailedInfo": "Rakuten Viki ofrece suscripción válida para 1 usuario exclusivo. Acceso sin interrupciones a contenido subtitulado y originales Viki. Entrega rápida tras la compra con credenciales listas para iniciar sesión.",
+    "rules": [
+      "No compartir credenciales.",
+      "Soporte por WhatsApp."
+    ],
+    "bannerColor": "from-red-700 to-pink-800",
+    "accentColor": "red",
+    "image": "/src/assets/images/flork_crunchyroll_1779850928533.png"
+  },
+  {
+    "id": "apple-tv",
+    "name": "Apple TV+",
+    "description": "Servicio de streaming con producciones originales de alta calidad.",
+    "price": 7.00,
+    "originalPrice": 9.99,
+    "rating": 4.8,
+    "reviewsCount": 310,
+    "category": "Streaming",
+    "platform": "apple",
+    "type": "Completa",
+    "tag": "PREMIUM",
+    "features": [
+      "Series originales",
+      "Películas exclusivas",
+      "4K HDR",
+      "Dolby Atmos",
+      "Sin anuncios"
+    ],
+    "durationOptions": [
+      {
+        "months": 1,
+        "price": 7.00,
+        "description": "Apple TV+ 1 mes"
+      }
+    ],
+    "detailedInfo": "Sumérgete en la experiencia premium de Apple TV+ con series y películas originales, documentales exclusivos y producciones galardonadas. Streaming en 4K HDR, audio Dolby Atmos, sin anuncios.",
+    "rules": [
+      "Requiere cuenta Apple activa.",
+      "A pedido."
+    ],
+    "bannerColor": "from-gray-700 to-black",
+    "accentColor": "gray",
+    "image": "/src/assets/images/flork_netflix_1779850836843.png"
+  },
+  {
+    "id": "youtube-premium",
+    "name": "YouTube + YouTube Music",
+    "description": "Música, videos sin anuncios, en segundo plano y descargas offline.",
+    "price": 7.00,
+    "originalPrice": 11.99,
+    "rating": 4.9,
+    "reviewsCount": 1120,
+    "category": "Música & Gaming",
+    "platform": "youtube",
+    "type": "Completa",
+    "tag": "RECOMENDADO",
+    "features": [
+      "Sin anuncios",
+      "Reproducción en segundo plano",
+      "YouTube Music incluido",
+      "Descargas offline",
+      "Calidad máxima"
+    ],
+    "durationOptions": [
+      {
+        "months": 1,
+        "price": 7.00,
+        "description": "YouTube Premium"
+      }
+    ],
+    "detailedInfo": "Disfruta la experiencia completa de YouTube Premium y YouTube Music con videos sin anuncios, reproducción en segundo plano y descargas para ver y escuchar sin conexión. Cuenta completa, perfil individual o activación para TV.",
+    "rules": [
+      "No haber estado en un grupo familiar de Google en los últimos 12 meses.",
+      "Soporte instantáneo por chat."
+    ],
+    "bannerColor": "from-red-600 to-black",
+    "accentColor": "red",
+    "image": "/src/assets/images/flork_youtube_1779850915714.png"
+  },
+  {
+    "id": "dazn-premium",
+    "name": "DAZN Premium",
+    "description": "Fútbol, boxeo, Fórmula 1, MotoGP y más deportes en vivo en calidad HD.",
+    "price": 7.99,
+    "originalPrice": 12.99,
+    "rating": 4.8,
+    "reviewsCount": 560,
+    "category": "Deportes",
+    "platform": "dazn",
+    "type": "Completa",
+    "tag": "DEPORTES",
+    "features": [
+      "Fútbol en vivo",
+      "Boxeo y UFC",
+      "Fórmula 1 y MotoGP",
+      "Eventos exclusivos",
+      "2 dispositivos simultáneos"
+    ],
+    "durationOptions": [
+      {
+        "months": 1,
+        "price": 7.99,
+        "description": "DAZN Premium 1 mes"
+      }
+    ],
+    "detailedInfo": "DAZN es una plataforma de streaming dedicada exclusivamente a los deportes, con eventos en vivo y a la carta. Disfruta de fútbol, boxeo, Fórmula 1, MotoGP y más, en cualquier dispositivo. Visualiza en 2 dispositivos a la vez. Compatible con TV, PC, tablet y móvil. Calidad Full HD (según dispositivo y red).",
+    "rules": [
+      "Requiere conexión a internet estable.",
+      "No compartir credenciales públicamente.",
+      "Soporte disponible 24/7 por WhatsApp."
+    ],
+    "bannerColor": "from-blue-700 to-black",
+    "accentColor": "blue",
+    "image": "/src/asfLigasets/images/products/Dazn.png"
+  },
+  {
+    "id": "fubo-sports-premium",
+    "name": "Fubo Sports Premium",
+    "description": "Transmisión en vivo de deportes, canales internacionales y contenido exclusivo en alta calidad.",
+    "price": 8.99,
+    "originalPrice": 13.99,
+    "rating": 4.7,
+    "reviewsCount": 430,
+    "category": "Deportes",
+    "platform": "fubo",
+    "type": "Completa",
+    "tag": "DEPORTES",
+    "features": [
+      "Canales deportivos en vivo",
+      "Fútbol internacional",
+      "Baloncesto y tenis",
+      "Contenido bajo demanda",
+      "2 dispositivos simultáneos"
+    ],
+    "durationOptions": [
+      {
+        "months": 1,
+        "price": 8.99,
+        "description": "Fubo Sports Premium 1 mes"
+      }
+    ],
+    "detailedInfo": "Fubo Sports es una plataforma premium de streaming enfocada en deportes en vivo, con canales internacionales, partidos de fútbol, baloncesto, tenis y mucho más. Ideal para los fanáticos que buscan variedad y calidad. Compatible con múltiples dispositivos (smart TV, móvil, PC). Permite visualización en hasta 2 dispositivos simultáneos. Calidad HD garantizada según red.",
+    "rules": [
+      "Requiere conexión estable a internet.",
+      "No compartir credenciales.",
+      "Soporte disponible por WhatsApp."
+    ],
+    "bannerColor": "from-green-700 to-black",
+    "accentColor": "green",
+    "image": "/src/assets/images/products/fuboSport.png"
+  },
+  {
+    "id": "directv-total-access",
+    "name": "DIRECTV Total Access",
+    "description": "Televisión satelital con canales deportivos, entretenimiento y películas en alta definición.",
+    "price": 9.99,
+    "originalPrice": 15.99,
+    "rating": 4.6,
+    "reviewsCount": 380,
+    "category": "Deportes",
+    "platform": "directv",
+    "type": "Completa",
+    "tag": "TV",
+    "features": [
+      "Canales premium y exclusivos",
+      "Programación en vivo",
+      "Grabaciones disponibles",
+      "Deportes en HD",
+      "Películas y series"
+    ],
+    "durationOptions": [
+      {
+        "months": 1,
+        "price": 9.99,
+        "description": "DIRECTV Total Access 1 mes"
+      }
+    ],
+    "detailedInfo": "DIRECTV ofrece televisión satelital con una amplia variedad de canales en alta definición, incluyendo deportes, películas, entretenimiento y noticias. Programación en vivo y grabaciones. Compatible con múltiples dispositivos y decodificadores. Calidad HD y 4K según plan contratado.",
+    "rules": [
+      "Requiere instalación satelital y señal estable.",
+      "No modificar la configuración de la cuenta.",
+      "Soporte técnico disponible."
+    ],
+    "bannerColor": "from-blue-800 to-sky-900",
+    "accentColor": "sky",
+    "image": "/src/assets/images/products/direcTv.png"
+  },
+  {
+    "id": "iptv-premium-plus",
+    "name": "IPTV Premium Plus",
+    "description": "Televisión en vivo, series, películas y deportes en HD con más de 10,000 canales.",
+    "price": 7.99,
+    "originalPrice": 14.99,
+    "rating": 4.5,
+    "reviewsCount": 520,
+    "category": "TV",
+    "platform": "iptv",
+    "type": "Completa",
+    "tag": "TV",
+    "features": [
+      "Más de 10,000 canales",
+      "Películas y series on demand",
+      "Deportes en vivo 24/7",
+      "Canales internacionales",
+      "Compatible multi-dispositivo"
+    ],
+    "durationOptions": [
+      {
+        "months": 1,
+        "price": 7.99,
+        "description": "IPTV Premium Plus 1 mes"
+      }
+    ],
+    "detailedInfo": "IPTV Premium Plus te ofrece acceso a cientos de canales en vivo de todo el mundo, incluyendo películas, series y eventos deportivos, todo en alta definición. Canales nacionales e internacionales. Películas y series on demand. Deportes en vivo 24/7. Compatible con Smart TV, TV Box, PC y móviles. Ideal para quienes buscan entretenimiento sin límites.",
+    "rules": [
+      "Requiere conexión estable a internet.",
+      "No compartir la cuenta con múltiples usuarios.",
+      "Soporte técnico por WhatsApp."
+    ],
+    "bannerColor": "from-purple-800 to-pink-900",
+    "accentColor": "purple",
+    "image": "/src/assets/images/products/iptv.png"
+  },
+  {
+    "id": "dgo-tv-en-vivo",
+    "name": "DGO TV en vivo",
+    "description": "Streaming en vivo de canales premium, deportes y entretenimiento para todos tus dispositivos.",
+    "price": 8.99,
+    "originalPrice": 12.99,
+    "rating": 4.6,
+    "reviewsCount": 340,
+    "category": "TV",
+    "platform": "dgo",
+    "type": "Completa",
+    "tag": "TV",
+    "features": [
+      "Canales premium en vivo",
+      "Deportes en HD",
+      "3 dispositivos simultáneos",
+      "Contenido bajo demanda",
+      "Entretenimiento variado"
+    ],
+    "durationOptions": [
+      {
+        "months": 1,
+        "price": 8.99,
+        "description": "DGO TV en vivo 1 mes"
+      }
+    ],
+    "detailedInfo": "DGO es un servicio de streaming que te brinda acceso a canales premium, deportes en vivo y entretenimiento desde cualquier dispositivo con conexión a internet. Visualiza en hasta 3 dispositivos simultáneamente. Contenido en alta definición y disponibilidad bajo demanda. Fácil acceso desde smart TVs, móviles, tablets y PC. Ideal para toda la familia con programación variada.",
+    "rules": [
+      "Requiere conexión estable para mejor experiencia.",
+      "No compartir credenciales.",
+      "Soporte disponible por WhatsApp."
+    ],
+    "bannerColor": "from-red-700 to-orange-800",
+    "accentColor": "red",
+    "image": "/src/assets/images/products/dgo.png"
+  },
+  {
+    "id": "hulu-contenido-completo",
+    "name": "Hulu - Contenido completo",
+    "description": "Streaming de series, películas, programas originales y TV en vivo con calidad HD.",
+    "price": 7.99,
+    "originalPrice": 11.99,
+    "rating": 4.7,
+    "reviewsCount": 890,
+    "category": "Streaming",
+    "platform": "hulu",
+    "type": "Completa",
+    "tag": "POPULAR",
+    "features": [
+      "Series originales exclusivas",
+      "Películas actualizadas",
+      "TV en vivo incluida",
+      "Calidad HD",
+      "Múltiples dispositivos"
+    ],
+    "durationOptions": [
+      {
+        "months": 1,
+        "price": 7.99,
+        "description": "Hulu Completo 1 mes"
+      }
+    ],
+    "detailedInfo": "Hulu es una plataforma de streaming que ofrece una amplia variedad de series, películas, programas originales y televisión en vivo, ideal para quienes buscan contenido diverso y de calidad. Acceso a contenido on demand y canales en vivo. Disponible en múltiples dispositivos con calidad HD. Opciones con o sin anuncios según plan. Contenido actualizado regularmente.",
+    "rules": [
+      "Requiere conexión estable a internet.",
+      "No compartir credenciales públicamente.",
+      "Soporte disponible por WhatsApp."
+    ],
+    "bannerColor": "from-green-600 to-emerald-800",
+    "accentColor": "green",
+    "image": "/src/assets/images/products/hulu.png"
+  },
+  {
+    "id": "univision-now-premium",
+    "name": "UNIVISION NOW - Contenido premium",
+    "description": "Streaming de películas, series y eventos deportivos con acceso flexible y alta calidad en español.",
+    "price": 6.99,
+    "originalPrice": 9.99,
+    "rating": 4.6,
+    "reviewsCount": 290,
+    "category": "Streaming",
+    "platform": "univision",
+    "type": "Completa",
+    "tag": "ESPAÑOL",
+    "features": [
+      "Canales Univision y UniMás en vivo 24/7",
+      "Telenovelas y series",
+      "Noticias en vivo",
+      "Eventos especiales",
+      "Calidad HD con subtítulos"
+    ],
+    "durationOptions": [
+      {
+        "months": 1,
+        "price": 6.99,
+        "description": "Univision Now 1 mes"
+      }
+    ],
+    "detailedInfo": "Univision Now es la plataforma oficial de streaming que ofrece acceso en vivo a los canales Univision y UniMás, además de un amplio catálogo de programas, telenovelas, noticias y eventos especiales. Contenido on demand de telenovelas, series y programas. Compatible con múltiples dispositivos. Calidad HD y opción de subtítulos. Ideal para quienes buscan entretenimiento 100% en español.",
+    "rules": [
+      "Requiere conexión estable a internet.",
+      "No compartir credenciales.",
+      "Soporte disponible por WhatsApp."
+    ],
+    "bannerColor": "from-purple-700 to-pink-700",
+    "accentColor": "purple",
+    "image": "/src/assets/images/products/univision.png"
+  },
+  {
+    "id": "espn-unlimited",
+    "name": "ESPN UNLIMITED",
+    "description": "Acceso ilimitado a deportes en vivo, repeticiones exclusivas y cobertura internacional en alta calidad.",
+    "price": 8.99,
+    "originalPrice": 14.99,
+    "rating": 4.9,
+    "reviewsCount": 1250,
+    "category": "Deportes",
+    "platform": "espn",
+    "type": "Completa",
+    "tag": "DEPORTES",
+    "features": [
+      "Partidos en vivo de fútbol",
+      "Básquet, tenis y UFC",
+      "Repeticiones exclusivas",
+      "Cobertura internacional",
+      "Contenido 24/7"
+    ],
+    "durationOptions": [
+      {
+        "months": 1,
+        "price": 8.99,
+        "description": "ESPN Unlimited 1 mes"
+      }
+    ],
+    "detailedInfo": "Vive toda la emoción del deporte con ESPN Unlimited. Acceso a partidos en vivo de fútbol, básquet, tenis, UFC y más. Repeticiones exclusivas y cobertura internacional. Compatible con Smart TVs, móviles, tablets y computadoras. Ideal para los fanáticos del deporte que quieren estar siempre conectados a la acción.",
+    "rules": [
+      "Requiere conexión estable a internet.",
+      "No compartir credenciales.",
+      "Soporte disponible 24/7 por WhatsApp.",
+      "Garantía activa durante todo el periodo contratado."
+    ],
+    "bannerColor": "from-red-600 to-black",
+    "accentColor": "red",
+    "image": "/src/assets/images/products/Espn.png"
+  },
+  {
+    "id": "chatgpt-plus",
+    "name": "CHATGPT PLUS",
+    "description": "Acceso premium al modelo ChatGPT con mayor velocidad de respuesta y disponibilidad mejorada.",
+    "price": 7.00,
+    "originalPrice": 20.00,
+    "rating": 4.9,
+    "reviewsCount": 3450,
+    "category": "Tecnología",
+    "platform": "openai",
+    "type": "Suscripción",
+    "tag": "TECNOLOGÍA",
+    "features": [
+      "Respuestas más rápidas y priorizadas",
+      "Disponible en horas de alta demanda",
+      "Acceso a GPT-4",
+      "Mayor capacidad de tokens",
+      "Funciones avanzadas"
+    ],
+    "durationOptions": [
+      {
+        "months": 1,
+        "price": 7.00,
+        "description": "ChatGPT Plus 1 mes"
+      }
+    ],
+    "detailedInfo": "ChatGPT Plus es tu acceso premium a inteligencia artificial. Respuestas más rápidas y priorizadas. Disponible incluso en horas de alta demanda. Acceso a GPT-4 con mayor capacidad de procesamiento. Ideal para estudiantes, profesionales y creadores de contenido. Una herramienta poderosa para aumentar tu productividad y creatividad.",
+    "rules": [
+      "No compartir la cuenta con múltiples usuarios.",
+      "Uso personal e individual.",
+      "Soporte disponible por WhatsApp.",
+      "Activación en tu cuenta personal de OpenAI."
+    ],
+    "bannerColor": "from-green-600 to-emerald-700",
+    "accentColor": "green",
+    "image": "/src/assets/images/products/Chagpt.png"
+  },
+  {
+    "id": "nfl-plus-premium",
+    "name": "NFL PLUS PREMIUM",
+    "description": "Las mejores repeticiones completas de los juegos y contenido exclusivo de la NFL.",
+    "price": 7.99,
+    "originalPrice": 12.99,
+    "rating": 4.8,
+    "reviewsCount": 890,
+    "category": "Deportes",
+    "platform": "nfl",
+    "type": "Completa",
+    "tag": "DEPORTES",
+    "features": [
+      "Repeticiones completas de juegos",
+      "Jugadas más emocionantes",
+      "Mejores momentos",
+      "Contenido exclusivo NFL",
+      "Acceso 24/7"
+    ],
+    "durationOptions": [
+      {
+        "months": 1,
+        "price": 7.99,
+        "description": "NFL Plus Premium 1 mes"
+      }
+    ],
+    "detailedInfo": "NFL Plus Premium te ofrece las mejores repeticiones completas de los juegos y mucho más. Revive las jugadas más emocionantes, los mejores momentos y contenido exclusivo pensado para verdaderos fanáticos del fútbol americano. Ideal para quienes no quieren perderse nada de sus juegos favoritos. NFL Plus Premium, tu mejor elección.",
+    "rules": [
+      "Requiere conexión estable a internet.",
+      "No compartir credenciales.",
+      "Soporte disponible por WhatsApp.",
+      "Garantía activa durante todo el periodo."
+    ],
+    "bannerColor": "from-blue-800 to-blue-950",
+    "accentColor": "blue",
+    "image": "/src/assets/images/products/nflGamePass.png"
+  },
+  {
+    "id": "nfl-game-pass",
+    "name": "NFL GAME PASS",
+    "description": "Accede a juegos en vivo de la temporada de la NFL en un solo lugar con cobertura completa.",
+    "price": 9.99,
+    "originalPrice": 14.99,
+    "rating": 4.9,
+    "reviewsCount": 1120,
+    "category": "Deportes",
+    "platform": "nfl",
+    "type": "Completa",
+    "tag": "DEPORTES",
+    "features": [
+      "Todos los juegos en vivo de la temporada",
+      "Repeticiones completas",
+      "Resúmenes detallados",
+      "Contenido exclusivo NFL",
+      "Cobertura completa"
+    ],
+    "durationOptions": [
+      {
+        "months": 1,
+        "price": 9.99,
+        "description": "NFL Game Pass 1 mes"
+      }
+    ],
+    "detailedInfo": "NFL Game Pass es el pase definitivo para los fanáticos del fútbol americano. Acceso a todos los juegos en vivo de la temporada de la NFL. Repeticiones completas y resúmenes detallados para revivir cada jugada. Compatible con Smart TVs, móviles, tablets y computadoras. La mejor manera de seguir cada partido y no perderte la emoción de la liga.",
+    "rules": [
+      "Requiere conexión estable a internet.",
+      "No compartir credenciales públicamente.",
+      "Soporte disponible por WhatsApp.",
+      "Garantía activa durante todo el periodo contratado."
+    ],
+    "bannerColor": "from-blue-900 to-black",
+    "accentColor": "blue",
+    "image": "/src/assets/images/products/nflGamePass.png"
+  },
+  {
+    "id": "fanatiz-acceso-en-vivo",
+    "name": "Fanatiz - acceso en vivo",
+    "description": "Streaming especializado en fútbol internacional con acceso a ligas y torneos en vivo.",
+    "price": 6.99,
+    "originalPrice": 10.99,
+    "rating": 4.7,
+    "reviewsCount": 340,
+    "category": "Deportes",
+    "platform": "fanatiz",
+    "type": "Completa",
+    "tag": "DEPORTES",
+    "features": [
+      "Múltiples ligas internacionales",
+      "Torneos en vivo",
+      "Streaming en alta definición",
+      "Fútbol sudamericano y europeo",
+      "Contenido exclusivo"
+    ],
+    "durationOptions": [
+      {
+        "months": 1,
+        "price": 6.99,
+        "description": "Fanatiz 1 mes"
+      }
+    ],
+    "detailedInfo": "Fanatiz es una plataforma dedicada al streaming de fútbol internacional, ofreciendo acceso en vivo a ligas, torneos y eventos destacados. Acceso a múltiples ligas y competencias de fútbol de todo el mundo. Streaming en alta definición y sin interrupciones. Compatible con dispositivos móviles, PC y smart TVs. Ideal para fanáticos del fútbol que quieren seguir a sus equipos favoritos sin límites.",
+    "rules": [
+      "Requiere conexión estable para mejor experiencia.",
+      "No compartir credenciales.",
+      "Soporte disponible por WhatsApp.",
+      "Garantía activa durante todo el periodo."
+    ],
+    "bannerColor": "from-blue-600 to-cyan-700",
+    "accentColor": "blue",
+    "image": "/src/assets/images/products/Fanatiz.png"
+  },
+  {
+    "id": "liga-1-max",
+    "name": "LIGA 1 MAX",
+    "description": "Streaming exclusivo de la Liga 1 del fútbol peruano con partidos en vivo y contenido especial.",
+    "price": 5.99,
+    "originalPrice": 9.99,
+    "rating": 4.8,
+    "reviewsCount": 560,
+    "category": "Deportes",
+    "platform": "liga1",
+    "type": "Completa",
+    "tag": "DEPORTES",
+    "features": [
+      "Cobertura completa de partidos oficiales",
+      "Calidad HD",
+      "Disponible en múltiples dispositivos",
+      "Resúmenes y entrevistas",
+      "Contenido adicional exclusivo"
+    ],
+    "durationOptions": [
+      {
+        "months": 1,
+        "price": 5.99,
+        "description": "Liga 1 Max 1 mes"
+      }
+    ],
+    "detailedInfo": "LIGA 1 MAX ofrece acceso exclusivo a la transmisión en vivo de la Liga 1 del fútbol peruano, con partidos en directo y contenido exclusivo para los aficionados. Cobertura completa de los partidos oficiales de la primera división del fútbol peruano. Calidad HD y disponibilidad en múltiples dispositivos como Smart TV, celular, tablet y PC. Contenido adicional como resúmenes, entrevistas y análisis de los mejores momentos. Ideal para seguidores del fútbol peruano que no quieren perderse ningún partido de su equipo favorito.",
+    "rules": [
+      "Requiere conexión a internet estable.",
+      "No compartir credenciales.",
+      "Soporte disponible por WhatsApp.",
+      "Garantía activa durante todo el periodo contratado."
+    ],
+    "bannerColor": "from-red-700 to-red-900",
+    "accentColor": "red",
+    "image": "/src/assets/images/products/liga1.png"
+  },
+  {
+    "id": "movistar-play",
+    "name": "Movistar Play",
+    "description": "Plataforma de streaming con películas, series, deportes y contenido exclusivo de Movistar.",
+    "price": 7.99,
+    "originalPrice": 11.99,
+    "rating": 4.6,
+    "reviewsCount": 420,
+    "category": "Streaming",
+    "platform": "movistar",
+    "type": "Completa",
+    "tag": "TV",
+    "features": [
+      "Acceso a contenido on demand",
+      "Canales en vivo",
+      "Deportes y fútbol",
+      "Contenido actualizado regularmente",
+      "Fácil navegación"
+    ],
+    "durationOptions": [
+      {
+        "months": 1,
+        "price": 7.99,
+        "description": "Movistar Play 1 mes"
+      }
+    ],
+    "detailedInfo": "Movistar Play es una plataforma de streaming que ofrece películas, series, deportes y contenido exclusivo de Movistar, ideal para toda la familia. Acceso a contenido on demand y en vivo con una amplia variedad de opciones de entretenimiento. Compatible con múltiples dispositivos como Smart TV, celular, tablet y PC. Contenido actualizado regularmente con los últimos estrenos y programas populares. Fácil navegación y experiencia personalizada para cada usuario.",
+    "rules": [
+      "Requiere conexión a internet estable.",
+      "No compartir credenciales públicamente.",
+      "Soporte disponible por WhatsApp.",
+      "Garantía activa durante todo el periodo contratado."
+    ],
+    "bannerColor": "from-blue-600 to-blue-800",
+    "accentColor": "blue",
+    "image": "/src/assets/images/products/movistarPlay.png"
+  },
+  {
+    "id": "nba-league-pass",
+    "name": "NBA League Pass",
+    "description": "Acceso a todos los partidos de la NBA en vivo y contenido exclusivo para fanáticos del básquetbol.",
+    "price": 9.99,
+    "originalPrice": 14.99,
+    "rating": 4.9,
+    "reviewsCount": 1850,
+    "category": "Deportes",
+    "platform": "nba",
+    "type": "Completa",
+    "tag": "DEPORTES",
+    "features": [
+      "Transmisión en vivo de todos los partidos",
+      "Contenido bajo demanda",
+      "Estadísticas en tiempo real",
+      "Repeticiones completas",
+      "Resúmenes destacados"
+    ],
+    "durationOptions": [
+      {
+        "months": 1,
+        "price": 9.99,
+        "description": "NBA League Pass 1 mes"
+      }
+    ],
+    "detailedInfo": "NBA League Pass te ofrece acceso en vivo a todos los partidos de la NBA con la mejor calidad HD y contenido exclusivo. Transmisión en vivo de cada partido de la temporada regular, playoffs y finales. Contenido bajo demanda para que no te pierdas ningún encuentro. Estadísticas en tiempo real para seguir el rendimiento de tus jugadores favoritos. Repeticiones completas y resúmenes destacados de cada jornada. Compatible con múltiples dispositivos como Smart TV, celular, tablet y PC. Ideal para fanáticos del básquetbol que no quieren perderse ningún juego de la mejor liga del mundo.",
+    "rules": [
+      "Requiere conexión a internet estable.",
+      "No compartir credenciales.",
+      "Soporte disponible por WhatsApp.",
+      "Garantía activa durante todo el periodo contratado."
+    ],
+    "bannerColor": "from-blue-800 to-red-800",
+    "accentColor": "blue",
+    "image": "/src/assets/images/products/nbaPass.png"
+  },
+  {
+    "id": "peacock-premium",
+    "name": "PEACOCK PREMIUM",
+    "description": "Accede a Peacock con series, películas y deportes en vivo. Calidad HD disponible en cualquier dispositivo.",
+    "price": 5.99,
+    "originalPrice": 9.99,
+    "rating": 4.7,
+    "reviewsCount": 780,
+    "category": "Streaming",
+    "platform": "peacock",
+    "type": "Completa",
+    "tag": "STREAMING",
+    "features": [
+      "Series exclusivas NBCUniversal",
+      "Películas actualizadas",
+      "Deportes en vivo",
+      "Contenido original Peacock",
+      "Calidad HD"
+    ],
+    "durationOptions": [
+      {
+        "months": 1,
+        "price": 5.99,
+        "description": "Peacock Premium 1 mes"
+      }
+    ],
+    "detailedInfo": "Disfruta Peacock Premium con acceso a películas, series exclusivas, deportes en vivo y mucho más. Acceso al increíble catálogo de NBCUniversal incluyendo The Office, Law & Order, Saturday Night Live y más. Deportes en vivo como la Premier League, WWE y eventos exclusivos. Contenido original de Peacock que no encontrarás en ningún otro lugar. Compatible con Smart TVs, celulares, tablets y computadoras. Acceso válido por 1 mes completo, renovable. Calidad HD garantizada. Atención personalizada y soporte rápido para que disfrutes sin interrupciones.",
+    "rules": [
+      "Requiere conexión estable a internet.",
+      "No compartir credenciales públicamente.",
+      "Soporte disponible por WhatsApp.",
+      "Garantía activa durante todo el periodo contratado."
+    ],
+    "bannerColor": "from-blue-500 to-indigo-700",
+    "accentColor": "blue",
+    "image": "/src/assets/images/products/peacock.png"
+  },
+  {
+    "id": "amc-plus",
+    "name": "AMC+",
+    "description": "Series, películas y contenido exclusivo de AMC, Shudder, Sundance Now y mucho más.",
+    "price": 6.99,
+    "originalPrice": 10.99,
+    "rating": 4.8,
+    "reviewsCount": 650,
+    "category": "Streaming",
+    "platform": "amc",
+    "type": "Completa",
+    "tag": "STREAMING",
+    "features": [
+      "Series originales de AMC",
+      "Shudder (terror)",
+      "Sundance Now (cine indie)",
+      "IFC Films Unlimited",
+      "BBC America exclusivo"
+    ],
+    "durationOptions": [
+      {
+        "months": 1,
+        "price": 6.99,
+        "description": "AMC+ 1 mes"
+      }
+    ],
+    "detailedInfo": "AMC+ te da acceso a contenido exclusivo del universo AMC. Series originales de AMC como The Walking Dead, Better Call Saul, Mad Men y más. Acceso a Shudder, la mejor plataforma de terror y suspenso. Sundance Now para lo mejor del cine independiente. IFC Films Unlimited con películas de culto y estrenos independientes. Contenido exclusivo de BBC America. Disponible en Smart TV, celulares, tablets y computadoras. Plan mensual renovable con soporte garantizado. Ideal para amantes de las series premium y el cine de calidad.",
+    "rules": [
+      "Requiere conexión estable a internet.",
+      "No compartir credenciales.",
+      "Soporte disponible por WhatsApp.",
+      "Garantía activa durante todo el periodo contratado."
+    ],
+    "bannerColor": "from-gray-800 to-black",
+    "accentColor": "gray",
+    "image": "/src/assets/images/products/amc.png"
+  },
+  {
+    "id": "ufc-streaming",
+    "name": "UFC STREAMING",
+    "description": "Disfruta de todos los combates y eventos exclusivos de UFC en vivo y en diferido.",
+    "price": 7.99,
+    "originalPrice": 12.99,
+    "rating": 4.9,
+    "reviewsCount": 980,
+    "category": "Deportes",
+    "platform": "ufc",
+    "type": "Completa",
+    "tag": "DEPORTES",
+    "features": [
+      "Eventos oficiales UFC en vivo",
+      "Combates bajo demanda",
+      "Repeticiones completas",
+      "Contenido exclusivo UFC",
+      "Calidad HD garantizada"
+    ],
+    "durationOptions": [
+      {
+        "months": 1,
+        "price": 7.99,
+        "description": "UFC Streaming 1 mes"
+      }
+    ],
+    "detailedInfo": "Accede a todos los eventos oficiales de UFC en vivo y bajo demanda. Disfruta de las peleas más emocionantes del mundo de las artes marciales mixtas, incluyendo Fight Nights, PPVs y eventos especiales. Repeticiones completas de todos los combates para que no te pierdas ni un solo golpe. Contenido exclusivo UFC como entrevistas, análisis previos, detrás de cámaras y documentales. Compatible con Smart TVs, móviles, tablets y computadoras. Calidad HD garantizada. Soporte rápido y atención personalizada para que no te pierdas ninguna pelea. Ideal para fanáticos de las MMA que quieren seguir a sus luchadores favoritos.",
+    "rules": [
+      "Requiere conexión estable a internet.",
+      "No compartir credenciales públicamente.",
+      "Soporte disponible por WhatsApp.",
+      "Garantía activa durante todo el periodo contratado."
+    ],
+    "bannerColor": "from-yellow-700 to-black",
+    "accentColor": "yellow",
+    "image": "/src/assets/images/products/Ufc.png"
+  },
+  {
+    "id": "formula-1-streaming",
+    "name": "FORMULA 1 STREAMING",
+    "description": "Disfruta todas las carreras de la Fórmula 1 en vivo y repeticiones exclusivas.",
+    "price": 8.99,
+    "originalPrice": 13.99,
+    "rating": 4.9,
+    "reviewsCount": 1100,
+    "category": "Deportes",
+    "platform": "f1",
+    "type": "Completa",
+    "tag": "DEPORTES",
+    "features": [
+      "Todas las carreras en vivo",
+      "Clasificaciones completas",
+      "Entrenamientos libres",
+      "Repeticiones exclusivas",
+      "Contenido detrás de escena"
+    ],
+    "durationOptions": [
+      {
+        "months": 1,
+        "price": 8.99,
+        "description": "Formula 1 Streaming 1 mes"
+      }
+    ],
+    "detailedInfo": "Vive la emoción de la Fórmula 1 en vivo con acceso completo a toda la temporada. Todas las carreras, sesiones de clasificación y entrenamientos libres en directo. Repeticiones exclusivas para revivir cada adelantamiento y momento emocionante. Contenido detrás de escena, entrevistas a pilotos, análisis técnicos y documentales exclusivos. Múltiples ángulos de cámara para que no te pierdas ningún detalle de la acción en la pista. Compatible con Smart TVs, celulares, tablets y PCs. Calidad HD y sin cortes. Atención inmediata para que disfrutes cada Gran Premio sin interrupciones. Ideal para los verdaderos fanáticos de la máxima categoría del automovilismo.",
+    "rules": [
+      "Requiere conexión estable a internet.",
+      "No compartir credenciales.",
+      "Soporte disponible por WhatsApp.",
+      "Garantía activa durante todo el periodo contratado."
+    ],
+    "bannerColor": "from-red-700 to-black",
+    "accentColor": "red",
+    "image": "/src/assets/images/products/formula1.png"
+  }
+]
